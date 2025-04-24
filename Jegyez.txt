@@ -1,0 +1,3 @@
+modellek .stl
+projektek .3mf
+3d nyomtatókód .gcode
